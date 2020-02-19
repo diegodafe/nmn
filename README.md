@@ -1,2 +1,1 @@
-# nmn
-metin2
+https://github.com/diegodafe/nmn.git
